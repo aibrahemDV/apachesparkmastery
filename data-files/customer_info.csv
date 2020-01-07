@@ -1,0 +1,11 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE_NUMBER,ACTIVATION_DATE
+1001,Mokhtar,Bernatsky,Mokhtar.Bernatsky@gmail.com,3243546,3/10/2010
+1002,Gao,Dolinsky,Gao.Dolinsky@gmail.com,3455436,15-07-15
+1003,Erez,Ritzmann,Erez.Ritzmann@gmail.com,5645675,12/10/2005
+1004,Mona,Azuma,Mona.Azuma@gmail.com,4565467,3/2/2012
+1005,Danel,Mondadori,Danel.Mondadori@gmail.com,5465477,12/9/2013
+1006,Kshitij,Gils,Kshitij.Gils@gmail.com,4356657,12/12/2012
+1007,Premal,Baek,Premal.Baek@gmail.com,12456044,16-09-15
+1008,Zhongwei,Rosen,Zhongwei.Rosen@gmail.com,13459593,17-08-01
+1009,Parviz,Lortz,Parviz.Lortz@gmail.com,57979483,30-10-14
+1010,Tuval,Kalloufi,Tuval.Kalloufi@gmail.com,39469684,14-02-02
